@@ -1,6 +1,7 @@
 # Hi, I'm Mikhail Kaneko 👋
 
 **Junior QA Engineer | Manual & Automated Testing | Based in Tbilisi, Georgia | Open to Remote**
+
 I recently completed the **Microsoft Junior QA/Software Tester** certification and I'm actively looking for an entry-level **QA Engineer / Software Tester** role, remote, anywhere.
 
 ## From E-Commerce to QA
