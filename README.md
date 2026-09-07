@@ -21,6 +21,8 @@ That's quality assurance without the title: methodically verifying that somethin
 ## Featured Project
 **[playwright-saucedemo-e2e](https://github.com/mikhailkaneko/playwright-saucedemo-e2e)** — an E2E test automation suite built with Playwright + TypeScript, using the Page Object Model. Covers authentication, cart, and checkout flows across Chromium, Firefox, and WebKit, with tests running automatically via GitHub Actions on every push.
 
+**[postman-restful-booker-api-tests](https://github.com/mikhailkaneko/postman-restful-booker-api-tests)** — API test suite for a public booking API, built as a Postman collection and run via Newman. Covers authentication, full CRUD on the booking resource with chained requests, and negative/security scenarios, with CI running on every push and weekly on a schedule.
+
 ## Let's Connect
 - 💼 LinkedIn: [linkedin.com/in/mikhail-kaneko363927433](https://www.linkedin.com/in/mikhail-kaneko363927433)
 - 📫 Email: mikhailkaneko@gmail.com
