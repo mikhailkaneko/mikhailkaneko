@@ -2,11 +2,9 @@
 
 **Junior QA Engineer | Manual & Automated Testing | Based in Tbilisi, Georgia | Open to Remote**
 
-I recently completed the **Microsoft Junior QA/Software Tester** certification and I'm actively looking for an entry-level **QA Engineer / Software Tester** role, remote, anywhere.
+I recently completed the **Microsoft Junior QA/Software Tester** certification and I'm actively looking for an Junior-level **QA Engineer / Software Tester** role, remote, anywhere.
 
-## From E-Commerce to QA
-For 9 years I ran **Kaneko**, my own e-commerce clothing brand — managing two WooCommerce storefronts, troubleshooting functionality and UI issues across desktop and mobile, and validating checkout, payment, and order-creation flows across 1,000+ customer orders. On the physical product side, I inspected 1,500+ finished garments against technical specifications, tracked defects back to manufacturing contractors, and maintained 50+ technical specs defining acceptance criteria.
-That's quality assurance without the title: methodically verifying that something works the way it's specified to, documenting exactly where and how it doesn't, and following through until it's fixed. The transition into software QA is a change of domain, not a change of skill set.
+QA Engineer with 2 years of experience testing web and mobile applications in e-commerce and fintech, backed by 6 years of running two WooCommerce online stores. Strong in test design, manual, exploratory and regression testing, REST API testing (Postman) and E2E automation with Playwright + TypeScript in GitHub Actions CI. Comfortable with SQL for data validation, JMeter for basic load testing, and Jira/Zephyrl for test and defect management. Microsoft Junior QA/Software Tester certified. Work well in Scrum teams and communicate defects clearly to developers, PMs and external vendors.
 
 ## What I Do
 - **Manual testing**: exploratory testing, structured test case design, defect logging with severity ratings and reproducible steps (Jira, Zephyr)
@@ -16,7 +14,7 @@ That's quality assurance without the title: methodically verifying that somethin
 - **Cross-browser testing**: BrowserStack, Chrome/Firefox/Safari
 
 ## Toolkit
-`Playwright` · `Postman` · `SQL` · `Jira` · `Zephyr` · `Azure DevOps` · `BrowserStack`
+`Playwright` · `Postman` · `SQL` · `Jira` · `Zephyr` · `Azure DevOps` · `BrowserStack`· `DevTools`· `TypeScript`· `JMeter`
 
 ## Featured Project
 **[playwright-saucedemo-e2e](https://github.com/mikhailkaneko/playwright-saucedemo-e2e)** — an E2E test automation suite built with Playwright + TypeScript, using the Page Object Model. Covers authentication, cart, and checkout flows across Chromium, Firefox, and WebKit, with tests running automatically via GitHub Actions on every push.
